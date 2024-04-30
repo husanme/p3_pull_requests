@@ -106,7 +106,7 @@ y = df["variable_objetivo"]
 
 #################################
 #################################
-# Humberto Sánchez: Pegar tu enlace aquí: 
+# Humberto Sánchez: Pegar tu enlace aquí: https://github.com/husanme/p3_pull_requests/blob/main/sanchez_humberto.pdf
 
 #################################
 
@@ -155,7 +155,7 @@ print("Precisión en prueba:", score_test)
 
 #######################################################
 #################################
-# Humberto Sánchez: Pegar tu enlace aquí: 
+# Humberto Sánchez: Pegar tu enlace aquí: https://github.com/husanme/p3_pull_requests/blob/main/sanchez_humberto.pdf
 
 #################################
 #######################################
